@@ -1,3 +1,4 @@
+To see how project looks like, go to ```/media```folder
 
 # User & Community Management System
 
