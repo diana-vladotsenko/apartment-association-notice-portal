@@ -1,5 +1,7 @@
-To see how project looks like, go to ```/media```folder
-To see all needed instruction go to ```/instructions```folder
+<a href="https://demo-nextjs-with-supabase.vercel.app/">
+  <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
+  <h1 align="center">Next.js and Supabase Starter Kit</h1>
+</a>
 
 # User & Community Management System
 
@@ -131,12 +133,14 @@ If you wish to just develop locally and not deploy to Vercel, [follow the steps 
 
 > Check out [the docs for Local Development](https://supabase.com/docs/guides/getting-started/local-development) to also run Supabase locally.
 
+# Additionally
+- To see how project looks like, go to ```/media```folder
 
+- To see all needed instruction go to ```/instructions```folder
+
+# Codeowners
 Aleksandra 
-Alina
-Diana
 
-<a href="https://demo-nextjs-with-supabase.vercel.app/">
-  <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
-  <h1 align="center">Next.js and Supabase Starter Kit</h1>
-</a>
+Alina
+
+Diana
