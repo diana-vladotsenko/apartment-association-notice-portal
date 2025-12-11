@@ -139,8 +139,4 @@ If you wish to just develop locally and not deploy to Vercel, [follow the steps 
 - To see all needed instruction go to ```/instructions```folder
 
 # Codeowners
-Aleksandra 
-
-Alina
-
-Diana
+Diana, Aleksandra , Alina
