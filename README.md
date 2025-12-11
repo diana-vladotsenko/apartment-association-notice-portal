@@ -1,4 +1,5 @@
 To see how project looks like, go to ```/media```folder
+To see all needed instruction go to ```/instructions```folder
 
 # User & Community Management System
 
