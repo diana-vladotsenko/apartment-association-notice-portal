@@ -3,6 +3,20 @@
   <h1 align="center">Next.js and Supabase Starter Kit</h1>
 </a>
 
+# Live
+🔗 [Website Link](https://apartment-association-notice-portal-f44tdiz89.vercel.app)
+
+### Test Credentials
+**Admin Account**
+- Email: admin@gmail.com
+- Password: passw1234567
+
+**User Account**
+- Email: test1@gmail.com
+- Password: p1234567
+
+> **Note:** These are test accounts for demonstration purposes. Feel free to explore all features!
+
 # User & Community Management System
 
 This project provides a web-based platform for managing residential communities.  
